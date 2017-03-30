@@ -3,4 +3,5 @@
 !/cpp/InfoCollection/*
 /cpp/Infocollection/InfoCollection/Debug/
 /cpp/InfoCollection/InfoCollection/x64/
-
+/python/*/.idea/
+./**/*.py[cod]
